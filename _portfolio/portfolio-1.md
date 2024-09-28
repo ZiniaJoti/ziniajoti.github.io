@@ -4,8 +4,6 @@ excerpt: "My designs using Solidworks can be found in the pdf<br/><img src='/ima
 collection: portfolio
 url: /files/Desin_Portfolio_ZiniaSultanaJoti.pdf
 ---
-'Here are my designs using Solidworks.
-<a href="/files/Desin_Portfolio_ZiniaSultanaJoti.pdf" download="Design_Portfolio_ZiniaSultanaJoti.pdf" class="download-btn">Download Portfolio</a>'
 Here are my designs using Solidworks.
 
 <div class="design-gallery">
@@ -18,3 +16,5 @@ Here are my designs using Solidworks.
   <img src="/images/Design7.jpg" alt="Design 7">
   <img src="/images/Design8.jpg" alt="Design 8">
   </div>
+
+<a href="/files/Desin_Portfolio_ZiniaSultanaJoti.pdf" download="Design_Portfolio_ZiniaSultanaJoti.pdf" class="download-btn">Download Portfolio</a>
