@@ -6,3 +6,4 @@ url: /files/Desin_Portfolio_ZiniaSultanaJoti.pdf
 ---
 
 Here are my designs using Solidworks.
+<a href="/files/Desin_Portfolio_ZiniaSultanaJoti.pdf" download="Design_Portfolio_ZiniaSultanaJoti.pdf" class="download-btn">Download Portfolio</a>
