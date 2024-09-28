@@ -14,7 +14,7 @@ My current research focus is on Material Characterization. I am using Molecular 
 ------
 I have experience in working on Materials Characterizations. My report on comparison study using moldecular dynamics approach is opensourced on [ResearchGate](https://www.researchgate.net/publication/383490197_A_Comparison_Study_of_Metals_Mechanical_Properties_Under_Tensile_Loading_Using_Molecular_Dynamics_Simulations).
 
-I am also applying my learnings on python using jupyter notebooks. You can find my projects on pythone, machine learning here: [github](https://github.com/ZiniaJoti) and [Kaggle](https://www.kaggle.com/ziniajoti).
+I am also applying my learnings on python using jupyter notebooks. You can find my projects on pythone, machine learning here: [Github](https://github.com/ZiniaJoti) and [Kaggle](https://www.kaggle.com/ziniajoti).
 
 Projects
 ------
