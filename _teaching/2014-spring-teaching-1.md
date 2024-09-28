@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
+type: "High School"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+employer: "Teach For Bangladesh"
+From: 2021-11-01 
+To: 2022-07-11
+location: "Chattogram, Bangladesh"
 ---
+## Responsibilites
 
-This is a description of a teaching experience. You can use markdown like any other post.
+    * Acted as a STEM educator to 240 students regularly in an economically challenged high school by applying the “Teach Like A Champion” teaching methodology.
+    * Implemented blended learning during the second phase of Covid while providing distance learning materials.
+    * Executed a project regarding Social and Emotional Learning that improved students’ emotional well-being.
+    * Attended in several professional and leadership trainings for personal development from different international leaders around the world.
+    * Conducted community project to build awareness among local for plastic waste with a group of 3 fellows.
 
-Heading 1
-======
+### Subjects Taught
+* Mathematics
+* Science
 
-Heading 2
-======
-
-Heading 3
-======
