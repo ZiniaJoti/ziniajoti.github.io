@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Fellow"
 collection: teaching
-type: "Workshop"
+type: "High School"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Science, Math"
+date: 2021-1-11
+location: "Chattogram, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Responsibilites
 ======
+    * Acted as a STEM educator to 240 students regularly in an economically challenged high school by applying the “Teach Like A  Champion” teaching methodology.
+    * Implemented blended learning during the second phase of Covid while providing distance learning materials.
+    * Executed a project regarding Social and Emotional Learning that improved students’ emotional well-being.
+    * Attended in several professional and leadership trainings for personal development from different international leaders around the world.
+    * Conducted community project to build awareness among local for plastic waste with a group of 3 fellows.
 
-Heading 2
-======
-
-Heading 3
-======
