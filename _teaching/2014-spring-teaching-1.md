@@ -6,7 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Teach For Bangladesh"
 date: 2021-11-01
 location: "Chattogram, Bangladesh"
----
+
 ## Responsibilites
     * Acted as a STEM educator to 240 students regularly in an economically challenged high school by applying the “Teach Like A Champion” teaching methodology.
     * Implemented blended learning during the second phase of Covid while providing distance learning materials.
@@ -16,4 +16,4 @@ location: "Chattogram, Bangladesh"
 ### Subjects Taught
 * Mathematics
 * Science
-
+---
