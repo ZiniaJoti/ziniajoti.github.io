@@ -10,7 +10,7 @@ done through Arduino. This bot is portable and can move to any direction without
 intervention.
 
 <div class="design-gallery">
-  <img src="/images/Bot.jpeg" alt="Image of FFR">
+  <img src="/images/Bot." alt="Image of FFR">
   <img src="/images/Bot_2.png" alt="Image of FFR">
    <img src="/images/Joti_bot.png" alt="Working with robot">
 </div>
