@@ -17,7 +17,7 @@ Deformation of Ni under uniaxial tensile load:
 Deformation of Cu under uniaxial tensile load:
 <iframe width="250" height="450" src="https://www.youtube.com/embed/P3jBTJyS3xE" title="Deformation process of Cu under tensile load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-The objective is to collect stress-strain data for the purpose of determining the material's strength including Young's modulus and Ultimate Tensile Strength (UTS). It was found that out of the four metals, Ni exhibits significantly higher Ultimate Tensile Strength (UTS).
+The objective is to collect stress-strain data for the purpose of determining the material's strength including Young's modulus and Ultimate Tensile Strength (UTS). 
 
 <div class="image-container">
     <img src="/images/Al_0.png" alt="Cu">
@@ -32,4 +32,13 @@ The objective is to collect stress-strain data for the purpose of determining th
     <img src="/images/Ni_0.png" alt="Cu">
     <img src="/images/Ni_160.png" alt="Cu">
     <p>Figure: Deformation of Cu under tensile load.</p>
+</div> 
+It was found that out of the four metals, Ni exhibits significantly higher Ultimate Tensile Strength (UTS).
+<div class="image-container">
+    <img src="/images/all-metals-SS.png" alt="Stress-Strain">
+    <p>Figure: Stress Strain Graph</p>
+    <img src="/images/Elastic-Modulus.png" alt="Elastic Modulus">
+    <p>Figure: Elastic Modulus</p>
+    <img src="/images/UTS.png" alt="Ultimate Tensile Strength">
+    <p>Figure: Ultimate Tensile Strength.</p>
 </div> 
