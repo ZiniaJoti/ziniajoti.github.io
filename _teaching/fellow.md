@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Fellow/Teacher"
 collection: teaching
-type: "Fellow/Teacher"
+type: "High School"
 permalink: /teaching/fellow
-venue: "High School"
+venue: "Teach For Bangladesh"
 date: 2022-01-01
 location: "Chattogram, Bangladesh"
 ---
