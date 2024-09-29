@@ -3,7 +3,7 @@ title: "A Comparison Study of Metals Mechanical Properties Under Tensile Loading
 collection: research
 category: article
 permalink: /research/research-project-1
-excerpt: "A comparative study of mechanical properties of Al, Fe, Cu and Ni.<br/><img src= '/images/Fe_0.png'> <img src='/images/Fe_160.png'>"
+excerpt: "A comparative study of mechanical properties of Al, Fe, Cu and Ni.<br/><img src='/images/metals.png'>"
 date: 2024-12-08
 venue: 'ResearchGate'
 paperurl: 'https://ziniajoti.github.io/files/Article_1.pdf'
