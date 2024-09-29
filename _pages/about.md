@@ -19,10 +19,19 @@ Here are some of the process images that I am working on.
     <p class="figure-caption"> Deformation of Cu</p>
 </div>   
 
-#### Deformation of Cu visualization using OVITO. 
+
+# Open Source Contributions
+------
+I have experience in working on Materials Characterizations. My report on comparison study using moldecular dynamics approach is opensourced on [ResearchGate](https://www.researchgate.net/publication/383490197_A_Comparison_Study_of_Metals_Mechanical_Properties_Under_Tensile_Loading_Using_Molecular_Dynamics_Simulations).
+
+I am also applying my learnings on python using jupyter notebooks. You can find my projects on python, machine learning etc. here: [Github](https://github.com/ZiniaJoti) and [Kaggle](https://www.kaggle.com/ziniajoti).
+
+# YT shorts
+------
+## Deformation of Cu visualization using OVITO. 
 <iframe width="250" height="450" src="https://www.youtube.com/embed/P3jBTJyS3xE" title="Deformation process of Cu under tensile load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Crack Propagation of Al visualization using OVITO. 
+## Crack Propagation of Al visualization using OVITO. 
 <iframe width="250" height="450" src="https://www.youtube.com/embed/NapUYXw52Go" title="Crack simulations using Molecular Dynamics Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
 
 <style>
@@ -45,9 +54,3 @@ Here are some of the process images that I am working on.
         height: auto;
     }
 </style>
-
-# Open Source Contributions
-------
-I have experience in working on Materials Characterizations. My report on comparison study using moldecular dynamics approach is opensourced on [ResearchGate](https://www.researchgate.net/publication/383490197_A_Comparison_Study_of_Metals_Mechanical_Properties_Under_Tensile_Loading_Using_Molecular_Dynamics_Simulations).
-
-I am also applying my learnings on python using jupyter notebooks. You can find my projects on python, machine learning etc. here: [Github](https://github.com/ZiniaJoti) and [Kaggle](https://www.kaggle.com/ziniajoti).
