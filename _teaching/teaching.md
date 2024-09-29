@@ -1,6 +1,6 @@
 ---
 title: "Fellow/Teacher"
-collection: teaching
+collection:
 type: "High School"
 permalink:
 venue: "Science, Math"
