@@ -1,8 +1,10 @@
 ---
-title: "Fellow/Teacher"
-type: "High School"
-venue: "Science, Math"
-date: 2021-1-11
+title: "Teaching experience 1"
+collection: teaching
+type: "Fellow/Teacher"
+permalink: /teaching/teaching_1
+venue: "High School"
+date: 2022-01-01
 location: "Chattogram, Bangladesh"
 ---
 
