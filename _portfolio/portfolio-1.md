@@ -1,6 +1,6 @@
 ---
 title: "Design Portfolio"
-excerpt: "My designs using Solidworks can be found in the pdf<br/><img src='/images/500x300.png'>"
+excerpt: "My designs using Solidworks<br/><img src='/images/500x300.png'>"
 collection: portfolio
 
 ---
