@@ -1,8 +1,8 @@
 ---
 title: "Fellow/Teacher"
-collection: teaching
+collection:
 type: "High School"
-#permalink: /teaching/2015-spring-teaching-1
+permalink:
 venue: "Science, Math"
 date: 2021-1-11
 location: "Chattogram, Bangladesh"
