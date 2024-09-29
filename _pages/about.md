@@ -32,14 +32,6 @@ I am also applying my learnings on python using jupyter notebooks. You can find 
 ## Crack Propagation of Al visualization using OVITO. 
 <iframe width="250" height="450" src="https://www.youtube.com/embed/NapUYXw52Go" title="Crack simulations using Molecular Dynamics Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
 
-<style>
-  .figure-caption {
-    font-size: 12px;
-    color: #666;
-    text-align: center;
-    margin-top: 5px;
-  }
-</style>
 
 <style>
     .image-container {
@@ -48,7 +40,7 @@ I am also applying my learnings on python using jupyter notebooks. You can find 
     }
 
     .image-container img {
-        width: 300px;
+        width: 500px;
         height: auto;
     }
 </style>
