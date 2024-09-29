@@ -40,7 +40,7 @@ I am also applying my learnings on python using jupyter notebooks. You can find 
     }
 
     .image-container img {
-        width: 500px;
+        width: 700px;
         height: auto;
     }
 </style>
