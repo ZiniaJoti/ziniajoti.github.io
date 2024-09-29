@@ -1,6 +1,6 @@
 ---
 title: "Fire Fighting Robot"
-excerpt: "Third year academic project <br/><img src='/images/bot.jpeg'>"
+excerpt: "Third year academic project <br/><img src='/images/Bot.png'>"
 collection: portfolio
 ---
 
@@ -10,9 +10,9 @@ done through Arduino. This bot is portable and can move to any direction without
 intervention.
 
 <div class="design-gallery">
-  **Image 1:** <img src="/images/Bot.jpeg" alt="Image of FFR">
-  **Image 2:** <img src="/images/Bot_2.jpeg" alt="Image of FFR">
-  **Image 3:** <img src="/images/Joti_bot.jpg" alt="Working with robot">
+  **Image of FFR:** <img src="/images/Bot.png" alt="Image of FFR">
+  **Image of FFR:** <img src="/images/Bot_2.png" alt="Image of FFR">
+  **Working with robot:** <img src="/images/Joti_bot.png" alt="Working with robot">
 </div>
 
 3 Types of sensors were placed around the structure of the bot and the structure
