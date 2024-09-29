@@ -14,9 +14,7 @@ My current research focus is on Material Characterization. I am using Molecular 
 ------
 Here are some of the process images that I am working on. 
 <div class="image-container">
-    <img src="/images/Cu_0.png" alt="Cu">
-    <img src="/images/Cu_160.png" alt="Cu">
-    <p class="figure-caption"> Deformation of Cu</p>
+    <img src="/images/dislocation.png" alt="Dislocation of Aluminum">
 </div>   
 
 
