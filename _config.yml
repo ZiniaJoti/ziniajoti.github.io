@@ -81,6 +81,14 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+# research Category - The following the list of research categories and their headings
+research_category:
+  article:
+    title: 'Article'
+  thesis:
+    title: 'Thesis'    
+  report:
+    title: 'Report'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -220,6 +228,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -272,6 +283,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
