@@ -1,11 +1,11 @@
 ---
 title: "Fellow/Teacher"
-collection:
 type: "High School"
-permalink:
 venue: "Science, Math"
 date: 2021-1-11
 location: "Chattogram, Bangladesh"
+excerpt: "Teach For Bangladesh"
+
 ---
 
 Responsibilites
