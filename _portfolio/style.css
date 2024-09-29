@@ -7,3 +7,13 @@
     text-decoration: none;
     cursor: pointer;
   }
+  .design-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Adjust spacing between images */
+  }
+  
+  .design-gallery img {
+    width: 300px; /* Adjust image width as needed */
+    margin: 10px; /* Adjust image margin as needed */
+  }
