@@ -11,7 +11,7 @@ redirect_from:
     ![ZiniaSultanaJoti](/images/withRobot.png){: .align-right width = "100px"}
 -->
 
-<img align="right" width="300" height="300" src="/images/withRobot.png" border="10">
+<img align="right" width="300" height="300" src="/images/withRobot.png">
 
 <div align="justify">
 
