@@ -222,6 +222,9 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
+  teaching_exp:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/

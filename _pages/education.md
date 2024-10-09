@@ -13,46 +13,36 @@ Welcome to my educational background page! Here, you can learn about my academic
 
 **Education**
 
-* **[University Name]** ([Year] - [Year])
-    * **Degree:** [Degree Name]
-    * **Major:** [Major Name] (if applicable)
-    * **Minor:** [Minor Name] (if applicable)
+* **Shahjalal University of Science and Technology** (2017 - 2021)
+    * **Degree:** Bachelor's in Science (Engineering)
+    * **Major:** Mechanical Engineering
     * **Honors/Awards:** 
-        * [List any honors or awards you received]
+        * Dean's Award 2020
     * **Relevant Coursework:**
-        * [List some of the most relevant courses you took] (Optional)
-    * **Thesis/Dissertation:** (if applicable)
-        * **Title:** [Title of your thesis/dissertation]
-        * **Abstract:** [Short summary of your thesis/dissertation] (Optional)
+        * Materials Science
+        * Solid Mechanics
+        * Fluid Mechanics
+        * Heat Transfer
+        * Mechanics of Machineries
+        * Applied Engineering Mathematics
+    * **Thesis:** 
+        * **Title:**  Analysis of Composite Laminated Plate: Lightning Protection Effect and Damage Mechanism.
+        * **Abstract:** 
+        * Conducted a literature review on composite-based laminated structure for aircraft construction by thoroughly assessing relevant research papers which focuses on the challenges faced by aircraft such as lightning strikes, bird impacts and turbulence.
+        * Modeled lightning strike protection (LSP) plate in Abaqus using Carbon Fiber Reinforced Composite (CFRP) plates with Carbon Nanotube (CNT) layers with a ply stack-up of [+45/0/-45/90]3s for quasi-isotropic structure.
+        * Analyzed the progressive failure utilizing the PUCK failure criteria to assess suitability for aerospace application.
 
-* **[Previous University Name]** (if applicable) ([Year] - [Year])
-    * **Degree:** [Degree Name] (if applicable)
-    * **Major:** [Major Name] (if applicable)
+* **Safiuddin Sarkar Academy and College** (2014 - 2016)
+    * **Degree:** Higher Secondary Certificate
+    * **Group:** Science
 
 **Skills**
-
-(Optional) You can also add a section on skills you have developed through your education, such as:
-
 * Research skills
 * Analytical skills
 * Problem-solving skills
 * Communication skills
 * Teamwork skills
 
-**Additional Information**
+**Certification Courses**
 
-(Optional) You can add any other relevant information you want to share, such as:
-
-* Online courses you have taken
-* Relevant certifications
-* Professional development activities
-
-**Feel free to customize this template to fit your specific educational background!**
-
-Here are some additional tips for writing your educational background page:
-
-* Use strong action verbs to describe your skills and accomplishments.
-* Quantify your achievements whenever possible.
-* Proofread your page carefully before publishing it.
-
-By creating a well-written educational background page, you can help potential employers or collaborators understand your qualifications and expertise.
+* 

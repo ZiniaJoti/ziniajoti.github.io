@@ -16,7 +16,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+   
+  - title: "Teaching Experience"
+    url: /teaching_exp/   
+        
   - title: "Portfolio"
     url: /portfolio/
 
