@@ -7,8 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Teaching Experience
-
 ### Fellow/Teacher
 * **Teach for Bangladesh**
   * Chattogram, Bangladesh
