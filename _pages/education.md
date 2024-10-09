@@ -11,7 +11,7 @@ author_profile: true
 
 Welcome to my educational background page! Here, you can learn about my academic journey and qualifications.
 
-**Education**
+**Academic Background**
 
 * **Shahjalal University of Science and Technology** (2017 - 2021)
     * **Degree:** Bachelor's in Science (Engineering)
@@ -45,4 +45,9 @@ Welcome to my educational background page! Here, you can learn about my academic
 
 **Certification Courses**
 
-* 
+* **Learn to Program: The Fundamentals**, University of Toronto, Coursera
+* **Learn to Program: Crafting Quality Code**, University of Toronto, Coursera
+* **SQL for Data Science**, University of California, Coursera
+* **Introduction to Data Analysis with Excel**, Rice University, Coursera
+* **Python Basics**, University of Michigan, Coursera
+* **Introduction to Programming with MATLAB**, Vanderbilt University, Coursera
