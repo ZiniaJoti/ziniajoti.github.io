@@ -14,11 +14,11 @@ author_profile: true
 Welcome to my educational background page! Here, you can learn about my academic journey and qualifications.
 
 **Academic Background**
-<img align="right" width="200" height="200" src="/images/MEE.jpg">
 
 * **Shahjalal University of Science and Technology** (2017 - 2021)
     * **Degree:** Bachelor's in Science (Engineering)
     * **Major:** Mechanical Engineering
+    <img align="right" width="400" height="400" src="/images/MEE.jpg">
     * **Honors/Awards:** 
         * Dean's Award 2020
     * **Relevant Coursework:**

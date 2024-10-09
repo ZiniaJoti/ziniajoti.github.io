@@ -11,7 +11,7 @@ redirect_from:
     ![ZiniaSultanaJoti](/images/withRobot.png){: .align-right width = "100px"}
 -->
 
-<img align="right" width="200" height="200" src="/images/withRobot.jpg">
+<img align="right" width="300" height="300" src="/images/withRobot.png">
 Hello, This is Zinia Sultana Joti. I am a Mechanical Engineer, graduated from Shahjalal University of Science and Technology, Sylhet, Bangladesh. I am currently enrolled in Applied Statistics and Data Science at Jahangirnagar University in Bangladesh.  You can navigate to different pages here to see my works. 
 
 My current research focus is on Material Characterization. I am using Molecular Dynamics simulations to learn more about High Entropy Alloys, Dislocations, Deformation Mechanisms in single crystal nanostructure. I have a keen interest in Machine Learning and composite materials.  My future goals would be to apply machine learning algorithms to unfold the mechanical characteristics of alloys, composites of different crystals. 
