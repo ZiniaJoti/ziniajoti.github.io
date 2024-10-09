@@ -7,14 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
-**Fellow/Teacher**
-Teach for Bangladesh
-Chattogram, Bangladesh
+## Teaching Experience
 
-Responsibilites
-======
-* Acted as a STEM educator to 240 students regularly in an economically challenged high school by applying the “Teach Like A  Champion” teaching methodology.
-* Implemented blended learning during the second phase of Covid while providing distance learning materials.
-* Executed a project regarding Social and Emotional Learning that improved students’ emotional well-being.
-* Attended in several professional and leadership trainings for personal development from different international leaders around the world.
-* Conducted community project to build awareness among local for plastic waste with a group of 3 fellows.
+### Fellow/Teacher
+* **Teach for Bangladesh**
+  * Chattogram, Bangladesh
+
+### Responsibilities
+
+* **STEM Education:** Acted as a STEM educator to 240 students in an economically challenged high school, applying the "Teach Like A Champion" methodology.
+* **Blended Learning:** Implemented blended learning during the COVID-19 pandemic, providing distance learning materials.
+* **Social and Emotional Learning:** Executed a project to improve students' emotional well-being through social and emotional learning strategies.
+* **Professional Development:** Attended various professional and leadership trainings conducted by international leaders.
+* **Community Outreach:** Conducted a community project to raise awareness about plastic waste with a group of 3 fellows.
+
+<div class="design-gallery">
+  <img src="/images/felloship.png" alt="Image of the robot">
+</div>
