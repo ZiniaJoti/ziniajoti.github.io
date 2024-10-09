@@ -11,6 +11,7 @@ citation:
 ---
 Abstract
 ====
+<div align="justify">
 Composite based laminated structures have become increasingly common for aircraft construction. The
 use of Carbon fiber reinforced composites, Kevlar, Glass fiber reinforced composites etc. has not only
 proven to be cost effective but also a stronger alternative to aluminum/steel-based aircraft structures.
@@ -35,4 +36,4 @@ established to characterize the damage behavior of CFRP under coupled effect of 
 expansion induced by lightning strike, and then the damages are evaluated by comparison with existing
 experimental results. The simulated in-depth damage has a good agreement with experiments, which
 indicates the in-depth damage mainly comes from the thermal ablation and expansion.
-
+</div>

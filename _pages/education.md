@@ -31,9 +31,11 @@ Welcome to my educational background page! Here, you can learn about my academic
     * **Thesis:** 
         * **Title:**  Analysis of Composite Laminated Plate: Lightning Protection Effect and Damage Mechanism.
         * **Abstract:** 
+        <div align="justify>
         * Conducted a literature review on composite-based laminated structure for aircraft construction by thoroughly assessing relevant research papers which focuses on the challenges faced by aircraft such as lightning strikes, bird impacts and turbulence.
         * Modeled lightning strike protection (LSP) plate in Abaqus using Carbon Fiber Reinforced Composite (CFRP) plates with Carbon Nanotube (CNT) layers with a ply stack-up of [+45/0/-45/90]3s for quasi-isotropic structure.
         * Analyzed the progressive failure utilizing the PUCK failure criteria to assess suitability for aerospace application.
+        </div>
 
 * **Safiuddin Sarkar Academy and College** (2014 - 2016)
     * **Degree:** Higher Secondary Certificate
