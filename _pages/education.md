@@ -10,7 +10,6 @@ author_profile: true
     [Mechanical Engineering](/images/MEE.jpg){: .align-right width = "50px" height="50"}
 -->
 
-<div align="justify">
 Welcome to my educational background page! Here, you can learn about my academic journey and qualifications.
 
 **Academic Background**
@@ -55,4 +54,3 @@ Welcome to my educational background page! Here, you can learn about my academic
 * **Introduction to Data Analysis with Excel**, Rice University, Coursera
 * **Python Basics**, University of Michigan, Coursera
 * **Introduction to Programming with MATLAB**, Vanderbilt University, Coursera
-</div>
