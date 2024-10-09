@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-![Mechanical Engineering](/images/MEE.jpg){: .align-right width = "300px"}
+![Mechanical Engineering](/images/MEE.jpg){: .align-right width = "50px"}
 Welcome to my educational background page! Here, you can learn about my academic journey and qualifications.
 
 **Academic Background**

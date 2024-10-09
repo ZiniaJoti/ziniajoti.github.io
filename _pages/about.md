@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Mechanical Engineering](/images/withRobot.jpg){: .align-right width = "100px"}
+![ZiniaSultanaJoti](/images/withRobot.jpg){: .align-right width = "100px"}
 
 Hello, This is Zinia Sultana Joti. I am a Mechanical Engineer, graduated from Shahjalal University of Science and Technology, Sylhet, Bangladesh. I am currently enrolled in Applied Statistics and Data Science at Jahangirnagar University in Bangladesh.  You can navigate to different pages here to see my works. 
 
