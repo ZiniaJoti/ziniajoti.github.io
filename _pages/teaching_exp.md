@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching_experience/
+title: "Teaching Experience"
+permalink: /teaching_exp/
 author_profile: true
 ---
 
 {% include base_path %}
+
 **Fellow/Teacher**
 Teach for Bangladesh
 Chattogram, Bangladesh
