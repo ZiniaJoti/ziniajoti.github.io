@@ -7,6 +7,6 @@ excerpt: 'Analysis of mechanical properties of Fe-Cu-Ni alloy'
 date: 2025-01-05
 venue: 'Khulna University of Engineering and Technology'
 paperurl: 
-citation: 'Mohammad Samiul Hasan and Zinia Sultana Joti.(2024). &quot;Tensile Mechanical Performance of Horizontally Twinned Al Nanopillar by Molecular Dynamics Analysis.&quot; <i>ICMIEE 2024</i>. [Submitted].'
+citation: 'Hasan, M. S. & Joti, Z. S. (2024). &quot;Tensile Mechanical Performance of Horizontally Twinned Al Nanopillar by Molecular Dynamics Analysis.&quot; <i>Proceedings of the 8th International Conference on Mechanical, Industrial and Energy Engineering. Khulna, Bangladesh.</i>'
 ---
 Details will be updated soon.
