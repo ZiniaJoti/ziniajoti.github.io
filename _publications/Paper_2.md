@@ -3,7 +3,7 @@ title: "Tensile Mechanical Performance of Horizontally Twinned Al Nanopillar by 
 collection: publications
 category: conferences
 permalink: /publication/Paper_2
-excerpt: 'Analysis of mechanical properties of Fe-Cu-Ni alloy'
+excerpt: 'Effect o horizontally twinned Al nanopillar'
 date: 2025-01-05
 venue: 'Khulna University of Engineering and Technology'
 paperurl: 
