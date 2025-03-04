@@ -13,6 +13,13 @@ author_profile: true
 Welcome to my educational background page! Here, you can learn about my academic journey and qualifications.
 
 **Academic Background**
+* **Jahangirnagar University** (2024 - Present)
+    * **Degree:** Masters
+    * **Major:** Applied Statistics and Data Science
+    * **Relevant Coursework:**
+        * Probability and Probability Distribution
+        * Statistical Inference
+        * Multivariate Analysis
 
 * **Shahjalal University of Science and Technology** (2017 - 2021)
     * **Degree:** Bachelor's in Science (Engineering)
@@ -40,14 +47,13 @@ Welcome to my educational background page! Here, you can learn about my academic
     * **Group:** Science
 
 **Skills**
-* Research skills
-* Analytical skills
-* Problem-solving skills
-* Communication skills
-* Teamwork skills
+* Problem-solving
+* Communication
+* Teamwork
 
 **Certification Courses**
 
+* **Machine Learning Specialization**, Stanford University, Coursera
 * **Learn to Program: The Fundamentals**, University of Toronto, Coursera
 * **Learn to Program: Crafting Quality Code**, University of Toronto, Coursera
 * **SQL for Data Science**, University of California, Coursera
