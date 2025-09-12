@@ -10,16 +10,23 @@ author_profile: true
     [Mechanical Engineering](/images/MEE.jpg){: .align-right width = "50px" height="50"}
 -->
 
-Welcome to my educational background page! Here, you can learn about my academic journey and qualifications.
 
 **Academic Background**
-* **Jahangirnagar University** (2024 - Present)
-    * **Degree:** Masters
+* **New Jersey Institute of Technology** ( September 2025 - Present)
+    * **Degree:** Doctor of Philosophy
+    * **Major:** Mechanical Engineering
+    * **Research Focus:**
+        * Generative AI
+ 
+
+* **Jahangirnagar University** (January 2024 - August 2025)
+    * **Degree:** Master's under weekend program (project incomplete)
     * **Major:** Applied Statistics and Data Science
     * **Relevant Coursework:**
+        * Machine Learning
+        * Big Data
         * Probability and Probability Distribution
         * Statistical Inference
-        * Multivariate Analysis
 
 * **Shahjalal University of Science and Technology** (2017 - 2021)
     * **Degree:** Bachelor's in Science (Engineering)
