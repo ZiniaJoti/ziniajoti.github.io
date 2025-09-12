@@ -15,9 +15,11 @@ redirect_from:
 
 <div align="justify">
 
-Hello, This is Zinia Sultana Joti. I am a PhD student at New Jersey Institute of Technology. I have completed my bachelor's degree from Shahjalal University of Science and Technology, Sylhet, Bangladesh. I have completed the theoretical coursework (project incomplete) for a Master's degree under the weekend program in Applied Statistics and Data Science at Jahangirnagar University.  You can navigate to different pages here to see my works. 
+Hello, I’m **Zinia Sultana Joti**, a PhD student in Mechanical Engineering at the *[New Jersey Institute of Technology](https://www.njit.edu/)*. I completed my bachelor’s degree in Mechanical Engineering at *Shahjalal University of Science and Technology* and later pursued a master’s degree in Applied Statistics and Data Science at *Jahangirnagar University* under the weekend program(project incomplete).  
 
-My current research focus is on using Generative AI on biological materials. Previously, I worked with Molecular Dynamics simulations to learn more about High-Entropy Alloys, Dislocations, and deformation mechanisms in single-crystal nanostructures. 
+My current research focuses on applying **Generative AI to the study of biological materials**, where computational intelligence meets the complexities of material behavior. Previously, I worked with **Molecular Dynamics simulations** to explore high-entropy alloys, dislocations, and deformation mechanisms in single-crystal nanostructures. These experiences have nurtured my interest in bridging traditional modeling methods with data-driven approaches to better understand materials at multiple scales.  
+
+You can explore the different sections of this site to learn more about my research, projects, and academic journey.  
 
 </div>
 
