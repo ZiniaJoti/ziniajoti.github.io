@@ -15,35 +15,37 @@ redirect_from:
 
 <div align="justify">
 
-Hello, I’m **Zinia Sultana Joti**, a PhD student in Mechanical Engineering at the *[New Jersey Institute of Technology](https://www.njit.edu/)*. I completed my bachelor’s degree in Mechanical Engineering at *Shahjalal University of Science and Technology* and later pursued a master’s degree in Applied Statistics and Data Science at *Jahangirnagar University* under the weekend program(project incomplete).  
+Hello, I’m **Zinia Sultana Joti**, a first-year PhD student from [Dibakar Datta Laboratory(DDLab)](https://dibakardatta.net/) in the department of Mechanical Engineering at the *New Jersey Institute of Technology (NJIT)*. I completed my bachelor’s degree in Mechanical Engineering at *Shahjalal University of Science and Technology (SUST)* and later pursued a master’s degree in Applied Statistics and Data Science at *Jahangirnagar University (JU)* under the weekend program(project incomplete).  
 
-My current research focuses on applying **Generative AI to the study of biological materials**, where computational intelligence meets the complexities of material behavior. Previously, I worked with **Molecular Dynamics simulations** to explore high-entropy alloys, dislocations, and deformation mechanisms in single-crystal nanostructures. These experiences have nurtured my interest in bridging traditional modeling methods with data-driven approaches to better understand materials at multiple scales.  
+My current research focuses on applying Generative AI to the study of biological materials, where computational intelligence meets the complexities of material behavior. Previously, I worked with Molecular Dynamics simulations to explore high-entropy alloys, dislocations, and deformation mechanisms in single-crystal nanostructures. These experiences have nurtured my interest in bridging traditional modeling methods with data-driven approaches to better understand materials at multiple scales.  
 
 You can explore the different sections of this site to learn more about my research, projects, and academic journey.  
 
 </div>
 
+## Research Interests
+- Generative AI
+- Molecular Dynamics (LAMMPS, GROMACS)
+- Finite Element Analysis
+- Materials Science: Alloys, Nanostructures, Biological Materials
 
-# Previous Wroks
-------
-Here are some of the process images that I am working on. 
-<div class="image-container">
-    <img src="/images/dislocation.png" alt="Dislocation of Aluminum">
-</div>   
-
-
-# Open Source Contributions
+## Previous Wroks
+### Open Source Contributions
 ------
 My experience involves working on Materials characterization. My report on a comparison study using molecular dynamics approach is open-sourced on [ResearchGate](https://www.researchgate.net/publication/383490197_A_Comparison_Study_of_Metals_Mechanical_Properties_Under_Tensile_Loading_Using_Molecular_Dynamics_Simulations).
 
 I am also applying my learnings on python using jupyter notebooks. You can find my projects on python, machine learning etc. here: [Github](https://github.com/ZiniaJoti) and [Kaggle](https://www.kaggle.com/ziniajoti).
 
-# YouTube shorts
 ------
-## Deformation of Cu visualization using OVITO. 
+Some of the process images: 
+<div class="image-container">
+    <img src="/images/dislocation.png" alt="Dislocation of Aluminum">
+</div>   
+
+### Deformation of Cu visualization using OVITO. 
 <iframe width="250" height="450" src="https://www.youtube.com/embed/P3jBTJyS3xE" title="Deformation process of Cu under tensile load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Crack Propagation of Al visualization using OVITO. 
+### Crack Propagation of Al visualization using OVITO. 
 <iframe width="250" height="450" src="https://www.youtube.com/embed/NapUYXw52Go" title="Crack simulations using Molecular Dynamics Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
 
 
