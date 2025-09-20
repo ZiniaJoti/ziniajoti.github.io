@@ -15,7 +15,7 @@ redirect_from:
 
 <div align="justify">
 
-Hello, I’m Zinia Sultana Joti, a first-year PhD student from [Dibakar Datta Laboratory(DDLab)](https://dibakardatta.net/) in the department of Mechanical Engineering at the New Jersey Institute of Technology (NJIT). I completed my bachelor’s degree in Mechanical Engineering at *Shahjalal University of Science and Technology (SUST)* and later pursued a master’s degree in Applied Statistics and Data Science at Jahangirnagar University (JU) under the weekend program(project incomplete).  
+Hello, I’m Zinia Sultana Joti, a first-year PhD student from Dibakar Datta Laboratory(DDLab) in the department of Mechanical Engineering at the New Jersey Institute of Technology (NJIT). I completed my bachelor’s degree in Mechanical Engineering at Shahjalal University of Science and Technology (SUST). I later pursued a master’s degree in Applied Statistics and Data Science at Jahangirnagar University (JU) under the weekend program(project incomplete).  
 
 My current research focuses on applying Generative AI to the study of biological materials, where computational intelligence meets the complexities of material behavior. Previously, I worked with Molecular Dynamics simulations to explore high-entropy alloys, dislocations, and deformation mechanisms in single-crystal nanostructures. These experiences have fostered my interest in integrating traditional modeling methods with data-driven approaches to gain a deeper understanding of materials at multiple scales.  
 
@@ -41,13 +41,6 @@ Some of the process images:
 <div class="image-container">
     <img src="/images/dislocation.png" alt="Dislocation of Aluminum">
 </div>   
-
-### Deformation of Cu visualization using OVITO. 
-<iframe width="250" height="450" src="https://www.youtube.com/embed/P3jBTJyS3xE" title="Deformation process of Cu under tensile load" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Crack Propagation of Al visualization using OVITO. 
-<iframe width="250" height="450" src="https://www.youtube.com/embed/NapUYXw52Go" title="Crack simulations using Molecular Dynamics Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
-
 
 <div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
 
