@@ -17,6 +17,7 @@ redirect_from:
 
 Hello, I’m Zinia Sultana Joti, a first-year PhD student from Dibakar Datta Laboratory(DDLab) in the department of Mechanical Engineering at the New Jersey Institute of Technology (NJIT). I completed my bachelor’s degree in Mechanical Engineering at Shahjalal University of Science and Technology (SUST). I later pursued a master’s degree in Applied Statistics and Data Science at Jahangirnagar University (JU) under the weekend program(project incomplete).  
 
+
 My current research focuses on applying Generative AI to the study of biological materials, where computational intelligence meets the complexities of material behavior. Previously, I worked with Molecular Dynamics simulations to explore high-entropy alloys, dislocations, and deformation mechanisms in single-crystal nanostructures. These experiences have fostered my interest in integrating traditional modeling methods with data-driven approaches to gain a deeper understanding of materials at multiple scales.  
 
 You can explore the different sections of this site to learn more about my research, projects, and academic journey.  
