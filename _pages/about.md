@@ -49,6 +49,27 @@ Some of the process images:
 <iframe width="250" height="450" src="https://www.youtube.com/embed/NapUYXw52Go" title="Crack simulations using Molecular Dynamics Simulations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when_cross-origin" allowfullscreen></iframe>
 
 
+<div style="display: flex; gap: 20px; justify-content: center; align-items: flex-start;">
+
+  <iframe width="400" height="300"
+      src="https://www.youtube.com/embed/P3jBTJyS3xE"
+      title="Deformation process of Cu under tensile load"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+
+  <iframe width="400" height="300"
+      src="https://www.youtube.com/embed/NapUYXw52Go"
+      title="Crack simulations using Molecular Dynamics Simulations"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+  </iframe>
+
+</div>
+
+
 <style>
     .image-container {
         display: flex;
